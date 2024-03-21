@@ -1,0 +1,4 @@
+wget -N https://gitlab.com/Misaka-blog/warp-script/-/raw/main/files/warp-yxip/warp-yxip.sh && bash warp-yxip.sh
+
+
+bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/warp/main/install.sh)
